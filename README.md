@@ -6,6 +6,8 @@ Full Stack Developer with experience in front-end and back-end technologies.<br>
 I'm a systems development technician and have knowledge focused on usability, user experience and web design.
 </h4>
 
+<br>
+
 <h2 align="left">:hammer_and_wrench: Technologies & Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php" />
