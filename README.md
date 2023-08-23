@@ -2,8 +2,8 @@
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> Hi, I am Felipe Dantas
 </h1>
 <h4 align='center'>
-Full Stack Developer with experience in front-end and back-end technologies.<br>
-I'm a systems development technician and have knowledge focused on usability, user experience and web design.
+Full Stack Developer with more than 3 years of experience in software development, my main stacks being PHP and JavaScript, where I have experience in several tools and technologies.
+I am able to solve complex problems, support the team, review codes and design efficient and scalable solutions. Additionally, I focus on principles like OOP, Clean Code, commit conventions and GitFlow to ensure the code is maintainable and of high quality.
 </h4>
 
 <br>
