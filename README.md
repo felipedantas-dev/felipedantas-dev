@@ -9,19 +9,19 @@
 ### :hammer_and_wrench: Main Technologies & Tools
 
 #### Front-end
-<img src="https://skillicons.dev/icons?i=js,html,css,react,jquery"/>
+<img src="https://skillicons.dev/icons?i=js,html,css,react,jquery" alt="JS, HTML, CSS, React & JQuery"/>
 
 #### Back-end
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" alt="PHP, Laravel & Node.js"/>
 
 #### Database
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL & MongoDB"/>
 
 #### DevOps
-<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
 
 #### Others
-<img src="https://skillicons.dev/icons?i=linux,git,bitbucket"/> 
+<img src="https://skillicons.dev/icons?i=linux,git" alt="Linux & Git"/> 
 
 ---
 
